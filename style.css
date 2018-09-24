@@ -21,9 +21,9 @@ nav a {
 
 #details {
   display: block;
-  background-color: red;
 }
 
 #details div {
   float: left;
+  background-color: red;
 }
